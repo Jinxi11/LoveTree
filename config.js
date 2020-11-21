@@ -16,5 +16,5 @@ var config = {
     //          2.T不能丢了
     date: "2019-05-26T20:00:00",
     // 双方的名字
-    names: ["Mr Lan", "요요"]
+    names: ["MrLan", "요요"]
 }
